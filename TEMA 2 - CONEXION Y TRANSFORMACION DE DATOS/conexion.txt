@@ -1,0 +1,6 @@
+[System.Data.Common.DbProviderFactories]::GetFactoryClasses()|ogv
+
+SERVIDOR: 	v-los.com
+BASE DE DATOS: 	vlos_curso_powerbi
+USUARIO: 	vlos_curso_powerbi
+CONTRASEÑA:	ClaveSecreta#1
